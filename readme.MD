@@ -1,6 +1,4 @@
-# Project Title
-
-Grocery & Food Budgeting AI
+# Grocery & Food Budgeting AI
 
 ## Summary
 
